@@ -16,12 +16,12 @@ define('RAW_IMAGE', true);
 define('RAW_IMAGE_LINK', false);
 define('IMAGE_EXTENSION', true);
 
-define('TWITTER_CARDS', false);
+define('TWITTER_CARDS', true);
 
 // If you're using this, make sure to put a forward slash before.
 // E.g. "/imageserve" not "imageserve"
 define('IMAGESERVE_DIR', '');
-define('TWITTER_HANDLE', '@aerouk_');
+define('TWITTER_HANDLE', '@AStranger1k');
 
-define('APP_NAME', 'ImageServe-Heroku');
+define('APP_NAME', 'A Stranger's Private Image Reserve');
 define('PASSKEY', getenv('PASSKEY'));
