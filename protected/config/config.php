@@ -23,5 +23,5 @@ define('TWITTER_CARDS', true);
 define('IMAGESERVE_DIR', '');
 define('TWITTER_HANDLE', '@AStranger1k');
 
-define('APP_NAME', 'A Stranger's Private Image Reserve');
+define('APP_NAME', 'A Stranger\'s Private Image Reserve');
 define('PASSKEY', getenv('PASSKEY'));
